@@ -1,0 +1,30 @@
+body {
+  background: linear-gradient(to right, #fce4ec, #f8bbd0);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.titulo {
+  color: #c2185b;
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-shadow: 1px 1px #fff;
+}
+
+.imagen-madre {
+  width: 100%;
+  max-width: 250px; /* puedes cambiar 250px a lo que prefieras */
+  height: auto;
+  margin: auto;
+  display: block;
+  border: 5px solid #fff;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.carta {
+  background-color: #fff;
+  border-radius: 15px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  color: #444;
+  max-width: 600px;
+  margin: auto;
+}
