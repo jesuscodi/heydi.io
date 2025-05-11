@@ -12,7 +12,7 @@ body {
 
 .imagen-madre {
   width: 100%;
-  max-width: 250px; /* puedes cambiar 250px a lo que prefieras */
+  max-width: 100px; /* puedes cambiar 250px a lo que prefieras */
   height: auto;
   margin: auto;
   display: block;
